@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Decorclassic.Kz";
+  src: url("https://fontsforyou.com/fonts/d/Decorclassic.Kz.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "Decorclassic.Kz";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  background: #ffffff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+span {
+  font-family: 'SecondaryFont', sans-serif !important;
+  font-size: 22px !important;
+  font-weight: 400 !important;
+  line-height: 26.64px !important;
+  text-align: left !important;
+}

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'SecondaryFont';
+    src: url('../public/fonts/CormorantGaramond-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SecondaryFont';
+    src: url('../public/fonts/CormorantGaramond-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../public/fonts/vDecoc.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
