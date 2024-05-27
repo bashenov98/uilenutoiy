@@ -137,6 +137,7 @@ function App() {
                   value={inputText}
                   onChange={handleChangeText}
                   name='Name'
+                  required="true"
                 />
               </div>
 
@@ -146,6 +147,7 @@ function App() {
                   value={mobile}
                   onChange={handleChangeMobile}
                   name='Mobile'
+                  required="true"
                 />
               </div>
 
